@@ -3,15 +3,15 @@ The goal is to compare model performance, analyze overfitting and underfitting, 
 
 The following regression models were trained and evaluated:
 
-Linear Regression (baseline model)
+- Linear Regression (baseline model)
 
-Lasso Regression (L1 regularization) for feature selection
+- Lasso Regression (L1 regularization) for feature selection
 
-Ridge Regression (L2 regularization) to reduce overfitting
+- Ridge Regression (L2 regularization) to reduce overfitting
 
-Decision Tree Regression to capture non-linear relationships
+- Decision Tree Regression to capture non-linear relationships
 
-Gradient Boosted Regression Trees (GBRT) as an ensemble learning method
+- Gradient Boosted Regression Trees (GBRT) as an ensemble learning method
 
 The dataset was split into 70% training and 30% testing, with performance evaluated using R² scores and residual analysis.
 
